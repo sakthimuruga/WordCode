@@ -1,7 +1,7 @@
 # WordCode
-WordCode using WordTrie
+WordCode using WordTrie : The word based text encoding technique. 
 
-Sakthi Murugan R. and Ananthanarayana V.S.
+Designed and developed by Sakthi Murugan R. and Ananthanarayana V.S.
 
-The word based text encoding technique. 
+
 Visit wwww.wordcode.org
