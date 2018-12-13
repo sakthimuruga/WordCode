@@ -1,4 +1,7 @@
 # WordCode
 WordCode using WordTrie
 
-The source code for encoding, decoding and the codepage in WordTrie will be publicly accessible once the article gets published.
+Sakthi Murugan R. and Ananthanarayana V.S.
+
+The word based text encoding technique. 
+Visit wwww.wordcode.org
